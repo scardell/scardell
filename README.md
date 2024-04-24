@@ -1,4 +1,4 @@
-### Hello, I am Santiago Cardelle 👋
+### Hi 👋, I am Santiago Cardelle
 
 <!--
 **scardell/scardell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
