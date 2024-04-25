@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I’m Santiago cardelle 🙋🏻‍♂️ </h1>
+<h1 align="center"> Hi, I’m Santiago Cardelle 🙋🏻‍♂️ </h1>
 
 ## ▪️ I'm student at [42 Urduliz](https://www.42urduliz.com/es/) 👨🏻‍💻📚 
 
