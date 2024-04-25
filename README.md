@@ -18,8 +18,7 @@ Email: scardell@student.42urduliz.com
 <a href='mailto:scardell@student.42urduliz.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
 
-<a href='www.linkedin.com/in/
-santiagocardelle-desarrollodesoftware//' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+<a href='www.linkedin.com/in/santiagocardelle-desarrollodesoftware//' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 </a>
 
 
