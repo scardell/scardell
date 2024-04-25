@@ -24,6 +24,3 @@ Email: scardell@student.42urduliz.com
 
 
 
-<!--
-**scardell/scardell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
