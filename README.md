@@ -1,4 +1,6 @@
-### Hi 👋, I am Santiago Cardelle
+<h1 align="center"> Hi, I’m Santiago cardelle 🙋🏻‍♂️ </h1>
+
+## ▪️ I'm student at [42 Urduliz](https://www.42urduliz.com/es/) 👨🏻‍💻📚 
 
 <!--
 **scardell/scardell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
