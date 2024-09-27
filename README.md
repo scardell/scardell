@@ -4,7 +4,7 @@
 <div align="center">
   <!--     <p>🔭 I’m currently working on <a href="https://github.com/davevad93/rest-countries-django-app">rest-countries-django-app</a></p> -->
 <!--      <p>👯 I’m collaborating on <a href="https://github.com/aprendedeceropython">Comunidad Python Aprende desde Cero</a></p> -->
-      <p>🌱 I’m currently learning <b>Python, C, HTML, CSS,</b></p> 
+      <p>🌱 I’m currently learning <b>Python, C, HTML, CSS, JS</b></p> 
       <p>💬 Ask me about <b> C </b></p> 
 </div>  
 
